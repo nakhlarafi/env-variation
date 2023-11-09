@@ -8,6 +8,6 @@
 source /etc/profile.d/modules.sh # adding module binaries
 module load anaconda/3.2023.03
 
-python3 runtotal.py Math
+python3 runtotal.py Mockito
 
 nvidia-smi
