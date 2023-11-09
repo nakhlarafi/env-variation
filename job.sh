@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J Math
+#SBATCH -J Mockito
 #SBATCH --mem=100M 
 #SBATCH -w virya3
 #SBATCH -o _%x%J.out
