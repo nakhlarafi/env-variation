@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J Chart
+#SBATCH -J Lang_test
 #SBATCH --mem=100M 
 #SBATCH -w virya3
 #SBATCH -o _%x%J.out
